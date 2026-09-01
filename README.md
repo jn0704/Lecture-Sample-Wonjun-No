@@ -22,7 +22,7 @@ jupyter
 # 환경구성
 conda create -n urban_ai python=3.11  
 conda activate urban_ai  
-conda install numpy pandas matplotlib jupyter  
+pip install numpy pandas matplotlib jupyter  
 pip install torch  
 jupyter notebook
 
