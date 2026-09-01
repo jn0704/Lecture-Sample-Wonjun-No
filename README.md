@@ -1,2 +1,20 @@
 # Lecture-Sample-Wonjun-No
 이 프로젝트는 고려대학교 스마트도시학부 도시 AI 전임교원 2차 심사 중 시범강의를 위한 실습코드입니다.
+
+# 실습환경
+| 항목 | 실습 환경 |
+|---|---|
+| 운영체제(OS) | Windows 10/11, macOS, Linux |
+| Python | Python 3.11 |
+| 환경 관리 | Anaconda |
+| 개발 환경 | Jupyter Notebook |
+| 딥러닝 프레임워크 | PyTorch |
+| 연산 환경 | CPU |
+| GPU | 필요 없음 |
+
+# 환경구성
+conda create -n urban_ai python=3.11
+conda activate urban_ai
+conda install numpy pandas matplotlib jupyter
+pip install torch
+jupyter notebook
