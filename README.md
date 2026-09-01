@@ -5,11 +5,11 @@
 | 항목 | 실습 환경 |
 |---|---|
 | 운영체제(OS) | Windows 10/11, macOS, Linux |
-| Python | Python 3.11 |
+| 프로그래밍 언어 | Python 3.11 |
 | 환경 관리 | Anaconda |
-| 개발 환경 | Jupyter Notebook |
+| 실행 도구 | Jupyter Notebook |
 | 딥러닝 프레임워크 | PyTorch |
-| 연산 환경 | CPU |
+| 연산 장치 | CPU |
 | GPU | 필요 없음 |
 
 # 사용 파이썬 라이브러리
