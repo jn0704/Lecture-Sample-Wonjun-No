@@ -13,8 +13,15 @@
 | GPU | 필요 없음 |
 
 # 환경구성
-conda create -n urban_ai python=3.11
-conda activate urban_ai
-conda install numpy pandas matplotlib jupyter
-pip install torch
+conda create -n urban_ai python=3.11  
+conda activate urban_ai  
+conda install numpy pandas matplotlib jupyter  
+pip install torch  
 jupyter notebook
+
+# 사용 파이썬 라이브러리
+numpy  
+pandas  
+matplotlib  
+torch  
+jupyter
