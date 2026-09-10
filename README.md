@@ -1,6 +1,15 @@
 # Lecture-Sample-Wonjun-No
 이 프로젝트는 '인공지능기초-인공신경망의 학습 원리' 시범강의를 위한 실습코드입니다.
 
+# 실습자료
+### `notebook/W08_artificial_neural_networks.ipynb`
+
+「인공지능기초」 제8주 **인공신경망의 학습 원리**를 위한 시범강의 실습자료입니다.
+
+### `original_notebook/`
+
+시범강의 실습자료를 구성하기 이전에 직접 작성한 인공신경망 교육용 Jupyter Notebook 원본 자료입니다.
+
 # 실습환경
 | 항목 | 실습 환경 |
 |---|---|
